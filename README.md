@@ -1,4 +1,4 @@
-# AI Tutor Skills
+# AI Tutor Skills/Prompts
 
 A collection of Claude Skills built around a simple idea: **AI is at its best as a personal tutor, not as a brain you outsource to.**
 
@@ -18,7 +18,11 @@ Use these when you want to grow. Turn them off when you just want to ship.
 
 | Skill | What it does |
 |-------|--------------|
-| [`ai-software-engineer-learning-assistant`](./skills/ai-software-engineer-learning-assistant/) | Guides you through building software as a teacher rather than a code-writer. Withholds unsolicited code, explains concepts, uses a graduated debugging progression to help you find bugs yourself. |
+| [`ai-learner`](./skills/ai-learner.md/) | Guides you through building software as a teacher rather than a code-writer. Withholds unsolicited code, explains concepts, uses a graduated debugging progression to help you find bugs yourself. |
+
+| prompt | What it does |
+|-------|--------------|
+| [`4hourgrill.jsont`](./prompts/4hourgrill.json/) | focuses on rapid teaching of a subject to get you to a semi functional conversational level along with guiding user for new skills |
 
 More skills coming as the collection grows.
 
