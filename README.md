@@ -22,7 +22,7 @@ Use these when you want to grow. Turn them off when you just want to ship.
 
 | prompt | What it does |
 |-------|--------------|
-| [`4hourgrill.jsont`](./prompts/4hourgrill.json/) | focuses on rapid teaching of a subject to get you to a semi functional conversational level along with guiding user for new skills |
+| [`4hourgrill.json`](./prompts/4hourgrill.json/) | focuses on rapid teaching of a subject to get you to a semi functional conversational level along with guiding user for new skills |
 
 More skills coming as the collection grows.
 
