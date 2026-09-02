@@ -19,6 +19,7 @@ Use these when you want to grow. Turn them off when you just want to ship.
 | Skill | What it does |
 |-------|--------------|
 | [`ai-learner`](./skills/ai-learner.md/) | Guides you through building software as a teacher rather than a code-writer. Withholds unsolicited code, explains concepts, uses a graduated debugging progression to help you find bugs yourself. |
+| [`latex-writing`](./skills/latexwriting.skill) | Skilled with a standardized format to produce Latex documents, use cases could be classes, work or hobbies | 
 
 | prompt | What it does |
 |-------|--------------|
