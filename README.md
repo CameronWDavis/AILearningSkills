@@ -21,6 +21,7 @@ Use these when you want to grow. Turn them off when you just want to ship.
 | [`ai-learner`](./skills/ai-learner.md/) | Guides you through building software as a teacher rather than a code-writer. Withholds unsolicited code, explains concepts, uses a graduated debugging progression to help you find bugs yourself. |
 | [`latex-writing`](./skills/latexwriting.skill) | Skilled with a standardized format to produce Latex documents, use cases could be classes, work or hobbies | 
 | [`lecture-notes.skill`](./skills/lecture-notes.skill) | Lecture notes is a standardized way to output lecture material or other recordings into organized notes |
+| ['spaced-recall.md'](.skills/spaced-recall.md) | A session-opening drill that makes you rebuild or re-derive one thing you learned earlier, unaided, so you find out what you actually retained instead of assuming.
 
 | prompt | What it does |
 |-------|--------------|
